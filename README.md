@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently studying at **Informatics Institute of Technology**
 
-- 🌱 I’m currently learning **Frameworks**
-
 - 📫 How to reach me **yenuliobapitiya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
